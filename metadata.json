@@ -1,0 +1,6 @@
+{
+  "name": "Offline Marketing Coach",
+  "description": "AI coach for small businesses offering real-world, low-tech, high-impact marketing techniques without digital tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
